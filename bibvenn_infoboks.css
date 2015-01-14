@@ -1,0 +1,52 @@
+/* Stilark for Wordpress-utvidelsen "bibvenn_infoboks" */
+
+.bibvenn_infoboks_wrapper {
+	padding: 10px 0;
+	margin-top: 20px;
+	clear: both;
+	float: right;
+	width: 300px;
+	}
+
+.bibvenn_infoboks {
+	width: 96%;
+	margin: 0 2%;
+	font-size: 12px;
+	display: inline-block;
+	}
+	
+img.bibvenn_infoboks_left {
+	width: 99%;
+	max-width: 99%;
+	margin-bottom: 5px;
+	}
+	
+.bibvenn_infoboks a>h3 {
+	font-family: "arial narrow", arial, sans-serif;
+	font-weight: 300;
+	font-size: 1.4em;
+	color: #666;
+	text-decoration: none;
+	margin-bottom: 0;
+	}
+	
+.bibvenn_infoboks_byline {
+	font-style: italic;
+	font-size: 0.8em;
+	}
+
+.bibvenn_infoboks_tilgjengelig {
+	color: #090;
+	font-weight: bold;
+	}
+	
+.bibvenn_infoboks_left {
+	float: left;
+	max-width: 41%;
+	}
+
+.bibvenn_infoboks_right {
+	float: left;
+	max-width: 56%;
+	margin-left: 3%;
+	}
